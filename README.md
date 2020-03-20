@@ -10,3 +10,9 @@ https://www.youtube.com/watch?v=D35m2CdMhVs
 https://plot.ly/python/hover-text-and-formatting/
 https://plot.ly/python/colorscales/#customizing-tick-text-on-logarithmic-color-bars
 
+#### Dropping rows from a PANDAS dataframe where some of the columns have value 0
+https://codereview.stackexchange.com/questions/185389/dropping-rows-from-a-pandas-dataframe-where-some-of-the-columns-have-value-0/185390
+```
+df = df[(df[['A','C']] != 0).all(axis=1)]
+```
+
