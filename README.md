@@ -25,3 +25,7 @@ add_user = """INSERT INTO DB.tbluser
               VALUES (%s, %s, %s, %s, %s)"""
 ```
 Note that the parameter markers used by `mysql.connector` may look the same as the `%s` used in Python string formatting but the relationship is only coincidental. Some database adapters like oursql and sqlite3 use ? as the parameter marker instead of `%s`.
+
+
+#### How to get the home directory in Python?
+https://stackoverflow.com/questions/4028904/how-to-get-the-home-directory-in-python
