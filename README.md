@@ -29,3 +29,6 @@ Note that the parameter markers used by `mysql.connector` may look the same as t
 
 #### How to get the home directory in Python?
 https://stackoverflow.com/questions/4028904/how-to-get-the-home-directory-in-python
+
+#### Data Visualization GUIs with Dash and Python
+https://www.youtube.com/watch?v=J_Cy_QjG6NE&list=PLQVvvaa0QuDfsGImWNt1eUEveHOepkjqt
