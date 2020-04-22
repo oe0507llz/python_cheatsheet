@@ -35,5 +35,5 @@ https://www.youtube.com/watch?v=J_Cy_QjG6NE&list=PLQVvvaa0QuDfsGImWNt1eUEveHOepk
 
 #### Python Selenium Refused to connect to URL because it violates the following Content Security Policy directive: connect-src self URL
 https://stackoverflow.com/questions/59207838/refused-to-load-the-script-because-it-violates-the-following-content-security-po
-https://stackoverflow.com/questions/53304222/relaxing-chromes-csp-while-running-tests-webdriver-content-security-policy
-https://stackoverflow.com/questions/54980323/refused-to-load-the-script-xyz-js-because-it-violates-the-following-content-se
+<br>https://stackoverflow.com/questions/53304222/relaxing-chromes-csp-while-running-tests-webdriver-content-security-policy
+<br>https://stackoverflow.com/questions/54980323/refused-to-load-the-script-xyz-js-because-it-violates-the-following-content-se
