@@ -37,3 +37,6 @@ https://www.youtube.com/watch?v=J_Cy_QjG6NE&list=PLQVvvaa0QuDfsGImWNt1eUEveHOepk
 https://stackoverflow.com/questions/59207838/refused-to-load-the-script-because-it-violates-the-following-content-security-po
 <br>https://stackoverflow.com/questions/53304222/relaxing-chromes-csp-while-running-tests-webdriver-content-security-policy
 <br>https://stackoverflow.com/questions/54980323/refused-to-load-the-script-xyz-js-because-it-violates-the-following-content-se
+
+#### Extract a part of URL - python
+https://stackoverflow.com/questions/17695662/extract-a-part-of-url-python
