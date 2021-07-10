@@ -1,5 +1,8 @@
 # python_cheatsheet
 
+#### Python Tutorial: Logging Basics - Logging to Files, Setting Levels, and Formatting
+https://www.youtube.com/watch?v=-ARI4Cz-awo
+
 #### How to embed plotly graphs in websites
 https://www.youtube.com/watch?v=kxPZV9ileKI
 
